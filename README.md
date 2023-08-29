@@ -1,4 +1,4 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+<style>h1,h2,h3,h4 { border-bottom: 0;text-decoration: none; } </style>
 
 
 # The-Maze-project- Game Programming v2.0
